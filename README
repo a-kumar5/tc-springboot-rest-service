@@ -1,0 +1,7 @@
+
+Development Process
+
+1. Create a custome error response class
+2. Create a cusyome exception class
+3. Update REST service to throw exception if studnet not found
+4. Add an exception handler using @ExceptionHandler
